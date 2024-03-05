@@ -14,11 +14,13 @@
 | Can black screen when dead. (This will fix after a meeting or two.) |
 | Doctor can not show deaths if someone leaves in a meeting. |
 
+**This mod only needs to be installed on the host's client to work, and works regardless of whether or not other client mods have been installed, and regardless of the type of device.<br>**
+- Unlike mods that use custom servers, there is no need to add servers by editing URLs or files.<br>
+ - __If you're on mobile, you can get custom servers__ [_here._](https://aumods.xyz)<br>
+
 ## Features
 
-> This mod only needs to be installed on the host's client to work, and works regardless of whether or not other client mods have been installed, and regardless of the type of device.<br>
-> Unlike mods that use custom servers, there is no need to add servers by editing URLs or files.<br>
- >- If you are going to play on Custom Servers, such as MNA and MEU, it would require everyone to have the mods the host has. You can get custom servers [here.](https://aumods.xyz)<br>
+
 
 #### __New content with Town of Chaos added to this game:__
 
@@ -29,23 +31,23 @@
 |- [Wizard](#wizard)|
 |- [Kamikaze](#kamikaze)|
 
-New Neutral Roles:
+|New Neutral Roles:|
+|------------------|
+|- [Lawyer](#lawyer)|
+|- [Magician](#magician)|
+|- [Dracula](#dracula)|
+|- [Hustler](#hustler)|
 
-- [Lawyer]
-- [Magician]
-- [Dracula]
-- [Hustler]
-
-New Modifiers:
-
-- [Mayor]
-- [Doctor]
-- [Veteran]
-- [Transporter]
-- [Demolitionist.]
-- [Pumpkin's Potion]()
-- [Bastion]
-- [Trapper]
+|New/Changed Modifiers:| Origin |
+|----------------------|--------|
+|- [Mayor](#mayor) | Orignally a Role.|
+|- [Doctor](#doctor) | Originally a Role.|
+|- [Veteran](#veteran) | Originally a Role.|
+|- [Transporter](#transporter) | Originally a Role.|
+|- [Demolitionist](#demolitionist)| Originally a Role. |
+|- [Pumpkin's Potion](#pumpkinspotion) | Exclusive to TOC |
+|- [Bastion](#bastion) | Originally a Role. |
+|- [Trapper](#trapper) | Originally a Role. |
 
 New Additions:
 
@@ -72,8 +74,9 @@ However, please note that the following restrictions apply.<br>
 Note that if a player other than the host plays with this mod installed, the following changes will be made.<br>
 
 - Custom Role Reveals
-- Can cause bugs 
-- etc.
+- Enhanced UI
+- Just a better experience.
+- (Can cause bugs, however.)
 
 ## Features
 ### Hotkeys
@@ -169,8 +172,8 @@ If all Impostors leave the game, the game will automatically end with the unused
 | [Madmate](#madmate)                 | [Paramedic](#paramedic)           | [Hitman](#hitman)                 | [Magician](#magician)           |                                | [Demolitionist](#demolitionist)                           |
 | [MadGuardian](#madguardian)         | [Vigilante](#guesser)             | [Lawyer](#lawyer)                 |                                 |                                |  [Bastion](#bastion)                            |                                   |                                   |                                 |                                   
 | [MadSnitch](#madsnitch)			  | [Child](#child)                   |	                                  |                                 |                                |   [Doctor](#doctor)       |
-| [SidekickMadmate](#sidekickmadmate) |                                   |                                   |                                 |                         |  [Pumpkin's Potion](#pumpkinspotion)                           |
-| [Silencer](#silencer)               |                                   |                                   |                                 |                                |                            |
+| [SidekickMadmate](#sidekickmadmate) |                                   |                                   |                                 |                         |  [Pumpkin's Potion](#pumpkinspotion)                           
+| [Silencer](#silencer)               |                                   |                                   |                                 |                                |  [Transporter](#transporter)                          |
 | [Traitor](#traitor)                 |                                   |                                   |                                 |                            
 | [Assassin](#guesser)                |                                   |                                   |                                 |                                             |
 | [Parasite](#parasite)               |                                   |                                   |                                 |                               
@@ -181,14 +184,7 @@ If all Impostors leave the game, the game will automatically end with the unused
 | [Cleaner](#cleaner)                 | 	                              |                                   |                                 |                                |							  |
 | [Freezer](#freezer)				  |                                   |                                   |                                 |                                |							  
 | 			                          |									  |									  |									|								 |							  |
-|									  |									  |									  |									|								 |							  |
-|									  |									  |									  |									|								 |							  |
-|									  |									  |									  |									|								 |							  |
-|									  |									  |									  |									|								 |							  |
-|									  |									  |									  |									|								 |							  |
-|									  |									  |									  |									|								 |							  |
-|									  |									  |									  |									|								 |							  |
-|									  |									  |									  |									|								 |							  |
+
 #### Notes
 
 Roles without a redirect mean they are not implemented yet but are planned.
@@ -1347,7 +1343,7 @@ The time is configurable. You will know when you are bombed when you see an arso
 Created by そうくん<br>
 Original idea by 宿主ランニング<br>
 
-Team : modifier<br>
+Team : Modifier<br>
 Basis : Crewmate<br>
 
 When killed, the trapper will hold the killer in place.<br>
@@ -1358,6 +1354,17 @@ The time held in place on the body is decided by host in settings.<br>
 | Name            |
 | --------------- |
 | Freeze Duration |
+
+### Transporter
+
+Created by Discussions<br>
+Idea from TOuR<br>
+
+Team : Modifier<br>
+Basis : Engineer<br>
+
+Use the Pet Button to cause two random players to switch places.<br>
+Consider the pet function while using the button. Do you have enough room to pet your Pet?<br>
 
 ### Mayor
 
