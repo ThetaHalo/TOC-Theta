@@ -1,60 +1,51 @@
 # Town Of Chaos
-
+### [__Discord Server__](https://discord.gg/jnJrZSHrN8) | [__Support The Dev!__](https://ko-fi.com/pumpkingaming)
 ## Regarding this mod
 
 > This mod is not affiliated with Among Us or Innersloth LLC, Town Of Host, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
 
-DISCORD SERVER: https://discord.gg/jnJrZSHrN8 --- Recommended to join!
+## Mod Information
 
-Support us keep to keep the mod going: https://ko-fi.com/pumpkingaming
-## Releases
+(**Among Us Version:** [**2023.11.28**](https://www.innersloth.com/games/among-us/))<br>
+[__Latest Version__](https://github.com/Englishpump93/Town-Of-Chaos-/releases/latest) | [Old Versions](https://github.com/Englishpump93/Town-Of-Chaos-/releases/)
 
-AmongUs Version: **2023.11.28**<br>
-
-**Latest Version: [Here](https://github.com/Englishpump93/Town-Of-Chaos-/releases/latest)**
-
-Old Versions: [Here](https://github.com/Englishpump93/Town-Of-Chaos-/releases/)
-
-## KNOWN BUGS
-
-KNOWN BUGS:
-
-- Can black screen when dead. (This will fix after a meeting or two.)
-
-- Doctor can not show deaths if someone leaves in a meeting.
+| **Known Bugs** |
+|------------|
+| Can black screen when dead. (This will fix after a meeting or two.) |
+| Doctor can not show deaths if someone leaves in a meeting. |
 
 ## Features
 
-This mod only needs to be installed on the host's client to work, and works regardless of whether or not other client mods have been installed, and regardless of the type of device.<br>
-Unlike mods that use custom servers, there is no need to add servers by editing URLs or files.<br>
-If you are going to play on Custom Servers, such as MNA and MEU, it would require everyone to have the mods the host has. You can get custom servers [here.](https://aumods.xyz)<br>
+> This mod only needs to be installed on the host's client to work, and works regardless of whether or not other client mods have been installed, and regardless of the type of device.<br>
+> Unlike mods that use custom servers, there is no need to add servers by editing URLs or files.<br>
+ >- If you are going to play on Custom Servers, such as MNA and MEU, it would require everyone to have the mods the host has. You can get custom servers [here.](https://aumods.xyz)<br>
 
 #### __New content with Town of Chaos added to this game:__
 
-New Crewmate Roles:
-
-- Reviver
-- Paramedic
-- Wizard
-- Kamikaze
+| New Crewmate Roles:|
+|--------------------|
+|- [Reviver](#reviver) |
+|- [Paramedic](#paramedic)|
+|- [Wizard](#wizard)|
+|- [Kamikaze](#kamikaze)|
 
 New Neutral Roles:
 
-- Lawyer
-- Magician
-- Dracula
-- Hustler
+- [Lawyer]
+- [Magician]
+- [Dracula]
+- [Hustler]
 
 New Modifiers:
 
-- Mayor
-- Doctor
-- Veteran
-- Transporter
-- Demolitionist.
-- Pumpkin's Potion
-- Bastion
-- Trapper
+- [Mayor]
+- [Doctor]
+- [Veteran]
+- [Transporter]
+- [Demolitionist.]
+- [Pumpkin's Potion]()
+- [Bastion]
+- [Trapper]
 
 New Additions:
 
