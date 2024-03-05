@@ -1,8 +1,8 @@
-# <img align="left" alt="Cover" src=".github/Images/Logo.png" width="25%"  />  <h1 align="center">Town of Chaos</h1>
+## <img align="left" alt="Cover" src=".github/Images/Logo.png" width="25%"  />  <h1 align="center">Town of Chaos</h1>
 ### [__Discord Server__](https://discord.gg/jnJrZSHrN8) | [__Support The Dev!__](https://ko-fi.com/pumpkingaming)
 
 > This mod is not affiliated with Among Us or Innersloth LLC, Town Of Host, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. 
-> Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
+> Portions of the materials contained herein are property of © Innersloth LLC.
 <br>
 
 ---
