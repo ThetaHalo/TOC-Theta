@@ -18,39 +18,24 @@
 - Unlike mods that use custom servers, there is no need to add servers by editing URLs or files.<br>
  - __If you're on mobile, you can get custom servers__ [_here._](https://aumods.xyz)<br>
 
-## Features
+
+## __New content:__
+
+### Roles:
+|  | Crewmate | Neutral | Modifiers |
+|--------|----------|---------|-----------|
+|        |[Reviver](#reviver)|[Lawyer](#lawyer)|[Mayor](#mayor) |
+|        |[Paramedic](#paramedic)|[Magician](#magician)|[Doctor](#doctor)|
+|        |[Wizard](#wizard)|[Dracula](#dracula)|[Veteran](#veteran)|
+|        |[Kamikaze](#kamikaze)|[Hustler](#hustler)|[Transporter](#transporter) |
+|        |          |         |[Demolitionist](#demolitionist)|
+|        |          |         | [Pumpkin's Potion](#pumpkinspotion) |
+|        |          |         | [Bastion](#bastion) |
+|        |          |         | [Trapper](#trapper) |
 
 
 
-#### __New content with Town of Chaos added to this game:__
-
-| New Crewmate Roles:|
-|--------------------|
-|- [Reviver](#reviver) |
-|- [Paramedic](#paramedic)|
-|- [Wizard](#wizard)|
-|- [Kamikaze](#kamikaze)|
-
-|New Neutral Roles:|
-|------------------|
-|- [Lawyer](#lawyer)|
-|- [Magician](#magician)|
-|- [Dracula](#dracula)|
-|- [Hustler](#hustler)|
-
-|New/Changed Modifiers:| Origin |
-|----------------------|--------|
-|- [Mayor](#mayor) | Orignally a Role.|
-|- [Doctor](#doctor) | Originally a Role.|
-|- [Veteran](#veteran) | Originally a Role.|
-|- [Transporter](#transporter) | Originally a Role.|
-|- [Demolitionist](#demolitionist)| Originally a Role. |
-|- [Pumpkin's Potion](#pumpkinspotion) | Exclusive to TOC |
-|- [Bastion](#bastion) | Originally a Role. |
-|- [Trapper](#trapper) | Originally a Role. |
-
-New Additions:
-
+### New Additions:
 - Sheriff can 1v1
 - Modifiers shows next to your name
 - RSETTINGS file, this allows you to change recommended settings (this is needed for confirm ejects to work.)
@@ -66,17 +51,20 @@ New Additions:
 - Added /death commmand, only works when in a meeting
 - More changes but honestly i forgot
 
-However, please note that the following restrictions apply.<br>
+#### However, please note that the following restrictions apply.<br>
 
 - If the host changes and does not have this installed, the server isn't modded and is now just a regular Among Us game.<br>
-- If someone with the original TOH or its forks joins a TOC lobby, they may experience graphical issues such as blackscreens.<br>
+- If someone with the original TOH or its forks **(TOHE, TOHTOR, TONX)** joins a TOC lobby, they may experience graphical issues such as blackscreens.<br>
 
-Note that if a player other than the host plays with this mod installed, the following changes will be made.<br>
+#### Note that if a player other than the host plays with this mod installed, the following changes will be made.<br>
 
 - Custom Role Reveals
 - Enhanced UI
 - Just a better experience.
 - (Can cause bugs, however.)
+
+#### Impostor Disconnect Detection:
+If all Impostors leave the game, the game will automatically end with the unused Impostor Disconnected screen. This was done as all impostors leaving the game would black screen all players who do not use desynced Impostor roles after the next meeting.
 
 ## Features
 ### Hotkeys
@@ -150,8 +138,11 @@ Also, you can break lines by writing `\n` in the sentence like `tag:line breaks 
 If the tag is set to "welcome" in the template function, it will be sent automatically when a player joins.<br>
 For example: `welcome:This room is using the mod Town Of Chaos.`
 
-### Impostor Disconnect Detection
-If all Impostors leave the game, the game will automatically end with the unused Impostor Disconnected screen. This was done as all impostors leaving the game would black screen all players who do not use desynced Impostor roles after the next meeting.
+
+#### Creating Tags.
+
+WIP
+
 
 ## Roles
 
