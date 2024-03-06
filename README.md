@@ -14,7 +14,7 @@
 
 ## Mod Information
 
-(**Among Us Version:** [**2023.11.28**](https://www.innersloth.com/games/among-us/))<br>
+(**Among Us Version:** [**v2024.3.5**](https://www.innersloth.com/games/among-us/))<br>
 [__Latest Version__](https://github.com/Englishpump93/Town-Of-Chaos-/releases/latest) | [Old Versions](https://github.com/Englishpump93/Town-Of-Chaos-/releases/)
 
 | **Known Bugs** |
@@ -149,49 +149,7 @@ For example: `welcome:This room is using the mod Town Of Chaos.`<br>
 
 
 ### Creating Tags.
-
-#### What's a tag?
-A tag is the text that appears above your name, You can use this system to make some really cool stuff!
-
-#### Basic Tag.
-
-File Template:<br>
-```
-(File Name: Your FriendCode#1234)
-
-type:static
-code:friendcode#1234
-color:#E9D7FF
-text:This is a Basic Tag!
-```
-Step 1.
-> Navigate to your AmongUs\Chaos folder and make a new txt file with the same name as your AU Friend Code (Example: stormydot#5793) <br> 
-
-Step 2.
-> Open the file you've just created. Inside of it paste the File Template provided above (excluding the "File Name" part.)<br>
-
-Step 3.
-> You'll need the following information: [Hex Code](https://htmlcolorcodes.com/color-picker/) (Example: #E9D7FF). Tag Text (Example:This is a Basic Tag!)<br>
-
-Once all that information is filled out, go to your Among Us and create a new lobby, and your tag should show up!<br>
- 
-![example tag](.github/Images/Tag-Basic.png)
-
-#### __Advanced Tag.__
-File Template:<br>
-```
-(File Name: Your FriendCode#1234)
-
-type:sforce
-code:friendcode#1234
-color:#E9D7FF
-text:This is an Advanced Tag!
-```
-WIP
-
-
-
-
+#### **Look at [TagCreation](.github/TagCreation.md) for more info.**
 
 ## Roles
 
