@@ -30,16 +30,16 @@
 ## __New content:__
 
 ### Roles:
-|  | Crewmate | Neutral | Modifiers |
-|--------|----------|---------|-----------|
-|        |[Reviver](#reviver)|[Lawyer](#lawyer)|[Mayor](#mayor) |
-|        |[Paramedic](#paramedic)|[Magician](#magician)|[Doctor](#doctor)|
-|        |[Wizard](#wizard)|[Dracula](#dracula)|[Veteran](#veteran)|
-|        |[Kamikaze](#kamikaze)|[Hustler](#hustler)|[Transporter](#transporter) |
-|        |          |         |[Demolitionist](#demolitionist)|
-|        |          |         | [Pumpkin's Potion](#pumpkinspotion) |
-|        |          |         | [Bastion](#bastion) |
-|        |          |         | [Trapper](#trapper) |
+| Crewmate | Neutral | Modifiers |
+|----------|---------|-----------|
+|[Reviver](#reviver)|[Lawyer](#lawyer)|[Mayor](#mayor) |
+|[Paramedic](#paramedic)|[Magician](#magician)|[Doctor](#doctor)|
+|[Wizard](#wizard)|[Dracula](#dracula)|[Veteran](#veteran)|
+|[Kamikaze](#kamikaze)|[Hustler](#hustler)|[Transporter](#transporter) |
+|          |         |[Demolitionist](#demolitionist)|
+|          |         | [Pumpkin's Potion](#pumpkinspotion) |
+|          |         | [Bastion](#bastion) |
+|          |         | [Trapper](#trapper) |
 
 
 
@@ -124,32 +124,73 @@ You can execute chat commands by typing in chat.
 | /version<br>/v | Show version of MOD clients |
 
 #### All Clients
-| Command                     | Function                                |
-| --------------------------- | --------------------------------------- |
-| /lastresult<br>/l           | Show game result                        |
-| /now<br>/n                  | Show active settings                    |
-| /perc                       | Show active roles settings              |
-| /template <tag><br>/t <tag> | Show template text corresponding to tag |
-| /color<br>/colour           | Change your current color (0-20)        |
-| /name                       | Change your current name                |
-| /m                          | Display your current role's description |
-| /r or /info                 | shows info for roles                    |
+| Command                     | Function                                   |
+| --------------------------- | -------------------------------------------|
+| /lastresult<br>/l           | Show game result                           |
+| /now<br>/n                  | Show active settings                       |
+| /perc                       | Show active roles settings                 |
+| /template <tag><br>/t <tag> | Show template text corresponding to tag    |
+| /color<br>/colour           | Change your current color (0-20)           |
+| /name                       | Change your current name                   |
+| /m                          | Display your current role's description    |
+| /r or /info                 | shows info for roles                       | 
+| /death                      | Shows your death reason. (Only in Meeting!)|
 
 ### Template
 This function allows you to send prepared messages.<br>
 Execute by typing `/template <tag>` or `/t <tag>`.<br>
-To set the text, edit `template.txt` in the same folder as AmongUs.exe.<br>
+To set the text, edit `template.txt` in the same folder as **Among Us.exe**<br>
 Separate each entry with a colon, such as `tag:content`.<br>
 Also, you can break lines by writing `\n` in the sentence like `tag:line breaks can be\nmade like this`.<br>
 
 #### Welcome Message
 If the tag is set to "welcome" in the template function, it will be sent automatically when a player joins.<br>
-For example: `welcome:This room is using the mod Town Of Chaos.`
+For example: `welcome:This room is using the mod Town Of Chaos.`<br>
 
 
-#### Creating Tags.
+### Creating Tags.
 
+#### What's a tag?
+A tag is the text that appears above your name, You can use this system to make some really cool stuff!
+
+#### Basic Tag.
+
+File Template:<br>
+```
+(File Name: Your FriendCode#1234)
+
+type:static
+code:friendcode#1234
+color:#E9D7FF
+text:This is a Basic Tag!
+```
+Step 1.
+> Navigate to your AmongUs\Chaos folder and make a new txt file with the same name as your AU Friend Code (Example: stormydot#5793) <br> 
+
+Step 2.
+> Open the file you've just created. Inside of it paste the File Template provided above (excluding the "File Name" part.)<br>
+
+Step 3.
+> You'll need the following information: [Hex Code](https://htmlcolorcodes.com/color-picker/) (Example: #E9D7FF). Tag Text (Example:This is a Basic Tag!)<br>
+
+Once all that information is filled out, go to your Among Us and create a new lobby, and your tag should show up!<br>
+ 
+![example tag](.github/Images/Tag-Basic.png)
+
+#### __Advanced Tag.__
+File Template:<br>
+```
+(File Name: Your FriendCode#1234)
+
+type:sforce
+code:friendcode#1234
+color:#E9D7FF
+text:This is an Advanced Tag!
+```
 WIP
+
+
+
 
 
 ## Roles
