@@ -21,7 +21,7 @@
 |------------|
 | Can black screen when dead. (This will fix after a meeting or two.) |
 | Doctor can not show deaths if someone leaves in a meeting. |
-
+---
 **This mod only needs to be installed on the host's client to work, and works regardless of whether or not other client mods have been installed, and regardless of the type of device.<br>**
 - Unlike mods that use custom servers, there is no need to add servers by editing URLs or files.<br>
  - __If you're on mobile, you can get custom servers__ [_here._](https://aumods.xyz)<br>
