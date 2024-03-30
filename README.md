@@ -57,6 +57,14 @@
 - BG info updated
 - /say added for hosts.
 - Added /death commmand, only works when in a meeting
+- Fixed lovers text.
+- New File: How to make tags.
+- Added fontsize top + bottom in tag files.
+- Ko-Fi membership tags added.
+- Transporter now has 99 uses.
+- /perc, /l, and /shoot now have color.
+- Added /tpout and /tpin from TOHE.
+- Blocks Imp + Torch, Trapper + Kame
 - More changes but honestly i forgot
 
 #### However, please note that the following restrictions apply.<br>
