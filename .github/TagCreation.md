@@ -25,7 +25,7 @@ Step 3.
 
 Once all that information is filled out, go to your Among Us and create a new lobby, and your tag should show up!<br>
  
-![example tag](.github/Images/Tag-Basic.png)
+![example tag](Images/Tag-Basic.png)
 
 #### __Advanced Tag.__
 File Template:<br>
