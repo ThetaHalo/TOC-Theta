@@ -1,63 +1,49 @@
-# Town Of Chaos
+## <img align="left" alt="Cover" src=".github/Images/Logo.png" width="25%"  />  <h1 align="center">Town of Chaos</h1>
+### [__Discord Server__](https://discord.gg/jnJrZSHrN8) | [__Support The Dev!__](https://ko-fi.com/pumpkingaming)
 
-## Regarding this mod
+> This mod is not affiliated with Among Us or Innersloth LLC, Town Of Host, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. 
+> Portions of the materials contained herein are property of © Innersloth LLC.
+<br>
 
-> This mod is not affiliated with Among Us or Innersloth LLC, Town Of Host, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
+---
 
-DISCORD SERVER: https://discord.gg/jnJrZSHrN8 --- Recommended to join!
 
-Support us keep to keep the mod going: https://ko-fi.com/pumpkingaming
-## Releases
 
-AmongUs Version: **2023.11.28**<br>
 
-**Latest Version: [Here](https://github.com/Englishpump93/Town-Of-Chaos-/releases/latest)**
 
-Old Versions: [Here](https://github.com/Englishpump93/Town-Of-Chaos-/releases/)
 
-## KNOWN BUGS
+## Mod Information
 
-KNOWN BUGS:
+(**Among Us Version:** [**v2024.3.5**](https://www.innersloth.com/games/among-us/))<br>
+[__Latest Version__](https://github.com/Englishpump93/Town-Of-Chaos-/releases/latest) | [Old Versions](https://github.com/Englishpump93/Town-Of-Chaos-/releases/)
 
-- Can black screen when dead. (This will fix after a meeting or two.)
+| **Known Bugs** |
+|------------|
+| Can black screen when dead. (This will fix after a meeting or two.) |
+| Doctor can not show deaths if someone leaves in a meeting. |
+---
+**This mod only needs to be installed on the host's client to work, and works regardless of whether or not other client mods have been installed, and regardless of the type of device.<br>**
+- Unlike mods that use custom servers, there is no need to add servers by editing URLs or files.<br>
+ - __If you're on mobile, you can get custom servers__ [_here._](https://aumods.xyz)<br>
 
-- Doctor can not show deaths if someone leaves in a meeting.
 
-## Features
+## __New content:__
 
-This mod only needs to be installed on the host's client to work, and works regardless of whether or not other client mods have been installed, and regardless of the type of device.<br>
-Unlike mods that use custom servers, there is no need to add servers by editing URLs or files.<br>
-If you are going to play on Custom Servers, such as MNA and MEU, it would require everyone to have the mods the host has. You can get custom servers [here.](https://aumods.xyz)<br>
+### Roles:
+| Crewmate | Neutral | Modifiers |
+|----------|---------|-----------|
+|[Reviver](#reviver)|[Lawyer](#lawyer)|[Mayor](#mayor) |
+|[Paramedic](#paramedic)|[Magician](#magician)|[Doctor](#doctor)|
+|[Wizard](#wizard)|[Dracula](#dracula)|[Veteran](#veteran)|
+|[Kamikaze](#kamikaze)|[Hustler](#hustler)|[Transporter](#transporter) |
+|          |         |[Demolitionist](#demolitionist)|
+|          |         | [Pumpkin's Potion](#pumpkinspotion) |
+|          |         | [Bastion](#bastion) |
+|          |         | [Trapper](#trapper) |
 
-#### __New content with Town of Chaos added to this game:__
 
-New Crewmate Roles:
 
-- Reviver
-- Paramedic
-- Wizard
-- Kamikaze
-
-New Neutral Roles:
-
-- Lawyer
-- Magician
-- Dracula
-- Hustler
-
-New Modifiers:
-
-- Mayor
-- Doctor
-- Veteran
-- Transporter
-- Demolitionist.
-- Pumpkin's Potion
-- Bastion
-- Trapper
-
-New Additions:
-
+### New Additions:
 - Sheriff can 1v1
 - Modifiers shows next to your name
 - RSETTINGS file, this allows you to change recommended settings (this is needed for confirm ejects to work.)
@@ -71,18 +57,30 @@ New Additions:
 - BG info updated
 - /say added for hosts.
 - Added /death commmand, only works when in a meeting
+- Fixed lovers text.
+- New File: How to make tags.
+- Added fontsize top + bottom in tag files.
+- Ko-Fi membership tags added.
+- Transporter now has 99 uses.
+- /perc, /l, and /shoot now have color.
+- Added /tpout and /tpin from TOHE.
+- Blocks Imp + Torch, Trapper + Kame
 - More changes but honestly i forgot
 
-However, please note that the following restrictions apply.<br>
+#### However, please note that the following restrictions apply.<br>
 
 - If the host changes and does not have this installed, the server isn't modded and is now just a regular Among Us game.<br>
-- If someone with the original TOH or its forks joins a TOC lobby, they may experience graphical issues such as blackscreens.<br>
+- If someone with the original TOH or its forks **(TOHE, TOHTOR, TONX)** joins a TOC lobby, they may experience graphical issues such as blackscreens.<br>
 
-Note that if a player other than the host plays with this mod installed, the following changes will be made.<br>
+#### Note that if a player other than the host plays with this mod installed, the following changes will be made.<br>
 
 - Custom Role Reveals
-- Can cause bugs 
-- etc.
+- Enhanced UI
+- Just a better experience.
+- (Can cause bugs, however.)
+
+#### Impostor Disconnect Detection:
+If all Impostors leave the game, the game will automatically end with the unused Impostor Disconnected screen. This was done as all impostors leaving the game would black screen all players who do not use desynced Impostor roles after the next meeting.
 
 ## Features
 ### Hotkeys
@@ -134,30 +132,32 @@ You can execute chat commands by typing in chat.
 | /version<br>/v | Show version of MOD clients |
 
 #### All Clients
-| Command                     | Function                                |
-| --------------------------- | --------------------------------------- |
-| /lastresult<br>/l           | Show game result                        |
-| /now<br>/n                  | Show active settings                    |
-| /perc                       | Show active roles settings              |
-| /template <tag><br>/t <tag> | Show template text corresponding to tag |
-| /color<br>/colour           | Change your current color (0-20)        |
-| /name                       | Change your current name                |
-| /m                          | Display your current role's description |
-| /r or /info                 | shows info for roles                    |
+| Command                     | Function                                   |
+| --------------------------- | -------------------------------------------|
+| /lastresult<br>/l           | Show game result                           |
+| /now<br>/n                  | Show active settings                       |
+| /perc                       | Show active roles settings                 |
+| /template <tag><br>/t <tag> | Show template text corresponding to tag    |
+| /color<br>/colour           | Change your current color (0-20)           |
+| /name                       | Change your current name                   |
+| /m                          | Display your current role's description    |
+| /r or /info                 | shows info for roles                       | 
+| /death                      | Shows your death reason. (Only in Meeting!)|
 
 ### Template
 This function allows you to send prepared messages.<br>
 Execute by typing `/template <tag>` or `/t <tag>`.<br>
-To set the text, edit `template.txt` in the same folder as AmongUs.exe.<br>
+To set the text, edit `template.txt` in the same folder as **Among Us.exe**<br>
 Separate each entry with a colon, such as `tag:content`.<br>
 Also, you can break lines by writing `\n` in the sentence like `tag:line breaks can be\nmade like this`.<br>
 
 #### Welcome Message
 If the tag is set to "welcome" in the template function, it will be sent automatically when a player joins.<br>
-For example: `welcome:This room is using the mod Town Of Chaos.`
+For example: `welcome:This room is using the mod Town Of Chaos.`<br>
 
-### Impostor Disconnect Detection
-If all Impostors leave the game, the game will automatically end with the unused Impostor Disconnected screen. This was done as all impostors leaving the game would black screen all players who do not use desynced Impostor roles after the next meeting.
+
+### Creating Tags.
+#### **Look at [TagCreation](.github/TagCreation.md) for more info.**
 
 ## Roles
 
@@ -178,8 +178,8 @@ If all Impostors leave the game, the game will automatically end with the unused
 | [Madmate](#madmate)                 | [Paramedic](#paramedic)           | [Hitman](#hitman)                 | [Magician](#magician)           |                                | [Demolitionist](#demolitionist)                           |
 | [MadGuardian](#madguardian)         | [Vigilante](#guesser)             | [Lawyer](#lawyer)                 |                                 |                                |  [Bastion](#bastion)                            |                                   |                                   |                                 |                                   
 | [MadSnitch](#madsnitch)			  | [Child](#child)                   |	                                  |                                 |                                |   [Doctor](#doctor)       |
-| [SidekickMadmate](#sidekickmadmate) |                                   |                                   |                                 |                         |  [Pumpkin's Potion](#PumpkinsPotion)                           |
-| [Silencer](#silencer)               |                                   |                                   |                                 |                                |                            |
+| [SidekickMadmate](#sidekickmadmate) |                                   |                                   |                                 |                         |  [Pumpkin's Potion](#pumpkinspotion)                           
+| [Silencer](#silencer)               |                                   |                                   |                                 |                                |  [Transporter](#transporter)                          |
 | [Traitor](#traitor)                 |                                   |                                   |                                 |                            
 | [Assassin](#guesser)                |                                   |                                   |                                 |                                             |
 | [Parasite](#parasite)               |                                   |                                   |                                 |                               
@@ -190,14 +190,7 @@ If all Impostors leave the game, the game will automatically end with the unused
 | [Cleaner](#cleaner)                 | 	                              |                                   |                                 |                                |							  |
 | [Freezer](#freezer)				  |                                   |                                   |                                 |                                |							  
 | 			                          |									  |									  |									|								 |							  |
-|									  |									  |									  |									|								 |							  |
-|									  |									  |									  |									|								 |							  |
-|									  |									  |									  |									|								 |							  |
-|									  |									  |									  |									|								 |							  |
-|									  |									  |									  |									|								 |							  |
-|									  |									  |									  |									|								 |							  |
-|									  |									  |									  |									|								 |							  |
-|									  |									  |									  |									|								 |							  |
+
 #### Notes
 
 Roles without a redirect mean they are not implemented yet but are planned.
@@ -1356,7 +1349,7 @@ The time is configurable. You will know when you are bombed when you see an arso
 Created by そうくん<br>
 Original idea by 宿主ランニング<br>
 
-Team : modifier<br>
+Team : Modifier<br>
 Basis : Crewmate<br>
 
 When killed, the trapper will hold the killer in place.<br>
@@ -1367,6 +1360,17 @@ The time held in place on the body is decided by host in settings.<br>
 | Name            |
 | --------------- |
 | Freeze Duration |
+
+### Transporter
+
+Created by Discussions<br>
+Idea from TOuR<br>
+
+Team : Modifier<br>
+Basis : Engineer<br>
+
+Use the Pet Button to cause two random players to switch places.<br>
+Consider the pet function while using the button. Do you have enough room to pet your Pet?<br>
 
 ### Mayor
 
