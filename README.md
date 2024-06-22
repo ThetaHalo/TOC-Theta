@@ -1,4 +1,5 @@
 ## <img align="left" alt="Cover" src=".github/Images/Logo.png" width="25%"  />  <h1 align="center">Town of Chaos</h1>
+
 ### [__Discord Server__](https://discord.gg/jnJrZSHrN8) | [__Support The Dev!__](https://ko-fi.com/pumpkingaming)
 
 > This mod is not affiliated with Among Us or Innersloth LLC, Town Of Host, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. 
@@ -14,7 +15,7 @@
 
 ## Mod Information
 
-(**Among Us Version:** [**v2024.3.5**](https://www.innersloth.com/games/among-us/))<br>
+(**Among Us Version:** [**v2024.6.4**](https://www.innersloth.com/games/among-us/))<br>
 [__Latest Version__](https://github.com/Englishpump93/Town-Of-Chaos-/releases/latest) | [Old Versions](https://github.com/Englishpump93/Town-Of-Chaos-/releases/)
 
 | **Known Bugs** |
@@ -43,29 +44,28 @@
 
 
 
-### New Additions:
-- Sheriff can 1v1
-- Modifiers shows next to your name
-- RSETTINGS file, this allows you to change recommended settings (this is needed for confirm ejects to work.)
-- Roles file you can edit so it changes what /r or /info says
-- Most roles can now vent
-- Added /kc or /kcount to tell you how many killers are alive only works in meeting.
-- Bewilderer text changed.
-- Reviver has been fixed.
-- BG added to /kc was missing
-- Lights and Swooper need testing as moving Reviver might of fixed this.
-- BG info updated
-- /say added for hosts.
-- Added /death commmand, only works when in a meeting
-- Fixed lovers text.
-- New File: How to make tags.
-- Added fontsize top + bottom in tag files.
-- Ko-Fi membership tags added.
-- Transporter now has 99 uses.
-- /perc, /l, and /shoot now have color.
-- Added /tpout and /tpin from TOHE.
-- Blocks Imp + Torch, Trapper + Kame
-- More changes but honestly i forgot
+
+<details>
+<summary>New Additions:</summary>
+<br>
+- Sheriff can 1v1<br>
+- Modifiers shows next to your name<br>
+- RSETTINGS file, this allows you to change recommended settings (this is needed for confirm ejects to work.)<br>
+- Roles file, you can edit so it changes what /r or /info says<br>
+- Most roles can now vent<br>
+- Added /kc or /kcount to tell you how many killers are alive! (only works in meeting.)<br>
+- BG added to /kc was missing<br>
+- /say added for hosts.<br>
+- Added /death commmand, only works when in a meeting<br>
+- Fixed lovers text.<br>
+- New File: How to make tags.<br>
+- Added fontsize top + bottom in tag files.<br>
+- Ko-Fi membership tags added.<br>
+- Transporter now has 99 uses.<br>
+- /perc, /l, and /shoot now have color.<br>
+- Added /tpout and /tpin from TOHE.<br>
+- More changes but honestly i forgot<br>
+</details>
 
 #### However, please note that the following restrictions apply.<br>
 
